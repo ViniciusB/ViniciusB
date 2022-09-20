@@ -1,4 +1,4 @@
-### Olá, eu sou o Vinicius Barros 🖥
+### Olá, eu sou o Vinicius Barros 👋
 
 - 🖥 Desenvolvimento Web
 - 🖥 .NET/C#
