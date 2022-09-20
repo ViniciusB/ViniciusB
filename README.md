@@ -1,6 +1,6 @@
 ### Olá, eu sou o Vinicius Barros 🖥
 
-- 🖥 Estudando Desenvolvimento Web
+- 🖥 Desenvolvimento Web
 - 🖥 .NET/C#
 - 🖥 SQL Server
 - 🖥 HTML5 e CSS3
