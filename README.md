@@ -1,4 +1,4 @@
-### Olá, eu sou o Vinicius Barros 👋
+### Olá, eu sou o Vinicius Barros 🖥
 
 <!--
 **ViniciusB/ViniciusB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
