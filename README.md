@@ -2,6 +2,7 @@
 
 - 🖥 Estudando Desenvolvimento Web
 - 🖥 .NET/C#
+- 🖥 ASP.NET Core MVC
 - 🖥 SQL Server
 - 🖥 HTML5 e CSS3
 - 🖥 Bootstrap
