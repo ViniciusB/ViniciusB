@@ -10,8 +10,8 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Vinicius-Csharp" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Vinicius-DotNetCore" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+  <img align="center" alt="Vinicius-Csharp" height="100" width="110" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Vinicius-DotNetCore" height="100" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
   
   ##
   
